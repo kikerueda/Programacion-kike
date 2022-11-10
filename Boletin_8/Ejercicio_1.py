@@ -1,8 +1,9 @@
 '''
-Created on Nov 4, 2022
+Created on Nov 10, 2022
 
-@author: kiikerueda
+@author: estudiante
 '''
+#Ejercicio 1 
 from random import randint
 
 #===============================================================================
@@ -12,7 +13,6 @@ from random import randint
 #         lista_aleatorios.append(randint(0,1000))
 #     return lista_aleatorios
 #===============================================================================
-
 
 lista=[]
 
@@ -114,7 +114,3 @@ print("Ejercicio 1 d: ",mediaNumeros(lista))
 #print("Ejercicio 1 e: ",sustituirElemento(lista))
 
 print("Ejercicio 1 f: ",mostarElementos(lista))
-
-
-
-
