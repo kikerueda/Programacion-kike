@@ -14,7 +14,7 @@ def es_bisiesto(yyyy):
 def transformar_formato_largo(dia, mes, year):
     meses=["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"]
 
-def es_fecha_valida:
+def es_fecha_valida(dias_maximo_de_mes, mes):
     dias_maximo_de_mes=[31,28,31,30,31,30,31,31,30,31,30,31]
     fecha_valida= 1<=mes<=12 and ((1<=dia <=dias_maximo_de_mes ))
     if ((1<=dia <=dias_maximo_de_mes[mes-1] or (es_bisiesto(year) and 1<=dia<=29 and mes==2))):
