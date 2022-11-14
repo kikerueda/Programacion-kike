@@ -13,7 +13,7 @@ def reversar(lista):
     for i in range(len(lista)):    
         guardar=lista[i] 
         escribir=lista[-i]
-        lista[i].append(int(escribir))
+        
     return lista
     
 print(reversar(numeros))
