@@ -1,5 +1,5 @@
 
-# 1.MÓDULO DE PROGRAMACÍON [
+# 1.MÓDULO DE PROGRAMACÍON 
 ![imagen](https://cdn-icons-png.flaticon.com/512/57/57049.png)
 
  En este repositorio se encuentran mis **boletines/ejercicios** de programacion.
