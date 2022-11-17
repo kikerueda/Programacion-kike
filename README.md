@@ -1,7 +1,9 @@
 
-# 1.MÓDULO DE PROGRAMACÍON
+# 1.MÓDULO DE PROGRAMACÍON [
+![imagen](https://cdn-icons-png.flaticon.com/512/57/57049.png)
+
  En este repositorio se encuentran mis **boletines/ejercicios** de programacion.
-## 1.1 Boletines (Python)
+## _**1.1**_ Boletines (Python)
   - ![Boletin 1](https://github.com/kikerueda/Programacion-kike/tree/master/Boletin_1)
   
   - ![Boletin 3](https://github.com/kikerueda/Programacion-kike/tree/master/Boletin_3)
@@ -16,7 +18,7 @@
   
   - ![Boletin Modular I](https://github.com/kikerueda/Programacion-kike/tree/master/Boletin_7)
 		
-## 1.2Examenes (Python)
+## **_1.2_** Examenes (Python)
 
 - ![Oct 4, 2022](https://github.com/kikerueda/Programacion-kike/blob/master/Examenes/ExamenIndividual.py)
 
