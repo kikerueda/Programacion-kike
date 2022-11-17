@@ -1,4 +1,3 @@
-![imagen](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png=250x250))
 
 # 1.MÓDULO DE PROGRAMACÍON
  En este repositorio se encuentran mis **boletines/ejercicios** de programacion.
