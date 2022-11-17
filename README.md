@@ -15,6 +15,7 @@
   ![Boletin 7](https://github.com/kikerueda/Programacion-kike/tree/master/Boletin_7)
   
   ![Boletin Modular I](https://github.com/kikerueda/Programacion-kike/tree/master/Boletin_7)
+		
 ## 1.2Examenes
 
 ![Oct 4, 2022](https://github.com/kikerueda/Programacion-kike/blob/master/Examenes/ExamenIndividual.py)
