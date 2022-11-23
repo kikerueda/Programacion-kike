@@ -16,7 +16,7 @@
   
   - ![Boletin 7](https://github.com/kikerueda/Programacion-kike/tree/master/Boletin_7)
   
-  - ![Boletin Modular I](https://github.com/kikerueda/Programacion-kike/tree/master/Boletin_7)
+  - ![Boletin Modular I](https://github.com/kikerueda/Programacion-kike/tree/master/boletin-modular)
 		
 ## **_1.2_** Examenes (Python)
 
