@@ -30,7 +30,7 @@
 
 - ![Oct 21, 2022](https://github.com/kikerueda/Programacion-kike/blob/master/Examenes/ExamenKike21-10-2022.py)
 
-
+- ![Oct 31, 2022](https://github.com/kikerueda/Programacion-kike/tree/master/Examenes/Examen_31-10-2022)
 
 
   
